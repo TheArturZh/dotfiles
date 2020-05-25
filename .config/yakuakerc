@@ -1,0 +1,21 @@
+[Appearance]
+Skin=materia-light
+
+[Desktop Entry]
+DefaultProfile=YakuakeProfile.profile
+
+[Dialogs]
+FirstRun=false
+
+[DownloadDialog Settings]
+Height 1080=440
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=YakuakeProfile.profile
+
+[KFileDialog Settings]
+iconViewIconSize=43
+
+[Window]
+Width=70

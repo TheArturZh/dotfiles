@@ -1,0 +1,12 @@
+[user]
+	name = 
+	email = 
+[core]
+	autocrlf = input
+	safecrlf = warn
+	quotepath = off
+	editor = vim
+[alias]
+	hist = !git --no-pager log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short -n 25
+	st = status
+	amend = commit --amend
